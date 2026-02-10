@@ -1,0 +1,21 @@
+{
+  "name": "Arena AR",
+  "short_name": "Arena AR",
+  "description": "A futuristic gaming tournament platform featuring neon-themed UI, live deployments, and integrated battle intelligence.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1e1e1e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 512 512' style='background-color:%23121212;'%3e%3cdefs%3e%3clinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3e%3cstop offset='0%25' style='stop-color:%23a855f7;stop-opacity:1' /%3e%3cstop offset='100%25' style='stop-color:%2300d4ff;stop-opacity:1' /%3e%3c/linearGradient%3e%3c/defs%3e%3cpath d='M256 16L48 112v192c0 48.5 32 91.5 76.5 109.5L256 496l131.5-72.5C432 405.5 464 362.5 464 304V112L256 16z' fill='url(%23grad)' /%3e%3ctext x='50%25' y='58%25' dominant-baseline='middle' text-anchor='middle' font-family='Orbitron, sans-serif' font-size='280' font-weight='900' fill='%23000' stroke='%23fff' stroke-width='5' stroke-linejoin='round'%3eAR%3c/text%3e%3c/svg%3e",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512' style='background-color:%23121212;'%3e%3cdefs%3e%3clinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3e%3cstop offset='0%25' style='stop-color:%23a855f7;stop-opacity:1' /%3e%3cstop offset='100%25' style='stop-color:%2300d4ff;stop-opacity:1' /%3e%3c/linearGradient%3e%3c/defs%3e%3cpath d='M256 16L48 112v192c0 48.5 32 91.5 76.5 109.5L256 496l131.5-72.5C432 405.5 464 362.5 464 304V112L256 16z' fill='url(%23grad)' /%3e%3ctext x='50%25' y='58%25' dominant-baseline='middle' text-anchor='middle' font-family='Orbitron, sans-serif' font-size='280' font-weight='900' fill='%23000' stroke='%23fff' stroke-width='5' stroke-linejoin='round'%3eAR%3c/text%3e%3c/svg%3e",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
